@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "site-creator-vinext-starter",
+    "framework": "nextjs",
+    "httpPort": 3000,
+    "build": {
+      "command": "pnpm run build"
+    }
+  }
+}
